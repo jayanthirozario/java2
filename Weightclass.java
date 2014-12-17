@@ -37,6 +37,7 @@ int weight;
     public int gethalfweight(){
         int halfweight;
         halfweight=weight/2;
+System.out.println("Half weight="+halfweight);
         return halfweight;
     }
 }
